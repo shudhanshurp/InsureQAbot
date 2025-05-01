@@ -44,8 +44,8 @@ Essentially, this application serves as a proof-of-concept for a more sophistica
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-name>
+    git clone https://github.com/shudhanshurp/InsureQAbot.git
+    cd InsureQAbot
     ```
 
 2.  **Create a Virtual Environment (Recommended):**
